@@ -21,7 +21,9 @@ A simple web project that displays the periodic table of elements using only HTM
 
 ## Live Demo
 
-View the live site: [https://periodic-table-ecf7e.web.app](https://periodic-table-ecf7e.web.app)
+View the live site:
+- [https://periodic-table-ecf7e.web.app](https://periodic-table-ecf7e.web.app)
+- [https://rohanraaj2.github.io/Periodic-Table/](https://rohanraaj2.github.io/Periodic-Table/)
 
 ## Deployment
 
